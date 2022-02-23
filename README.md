@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/pranay-reddy-79b2781b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-reddy-79b2781b7" height="30" width="40" /></a>
 <a href="https://kaggle.com/pranayreddy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranayreddy99" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/users/368780706610020352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/368780706610020352" height="30" width="40" /></a>
-  <a href="https://www.reddit.com/user/UrMuMGaEe" target="blank"><img align="center" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" alt="https://www.reddit.com/user/UrMuMGaEe" height="30" width="40" /></a>
+  <a href="https://www.reddit.com/user/UrMuMGaEe" target="blank"><img align="center" src="https://www.redditinc.com/assets/images/site/reddit-logo.png" alt="https://www.reddit.com/user/UrMuMGaEe" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
