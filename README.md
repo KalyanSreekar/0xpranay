@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pranayreddy1024@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1R7IGxPYIAuQ3wOgs0gqumtrIlY1ITyp6/view?usp=sharing](https://drive.google.com/file/d/1R7IGxPYIAuQ3wOgs0gqumtrIlY1ITyp6/view?usp=sharing)
+- 📄 Check out my resume here [My Resume](https://drive.google.com/file/d/1R7IGxPYIAuQ3wOgs0gqumtrIlY1ITyp6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
