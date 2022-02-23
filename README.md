@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranay Reddy</h1>
 <h3 align="center">A passionate web3 developer trying to make an impact in the decentralised world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xpranay&label=Profile%20views&color=0e75b6&style=flat" alt="0xpranay" /> </p>
-
 - 🔭 I’m currently working on [Donut Quests public beta](https://app.donutquests.xyz/)
 
 - 🌱 I’m currently learning **Rollups and ETH2**
