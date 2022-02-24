@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Donut Quests public beta](https://app.donutquests.xyz/)
 
-- 🌱 I’m currently learning **Rollups and ETH2**
+- 🌱 I’m currently learning **Rollups and ETH 2.0**
 
 - 👯 I’m looking to collaborate on **Smart contracts, NFTs and anything Ethereum**
 
