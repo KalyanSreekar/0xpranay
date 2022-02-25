@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pranayreddy1024@gmail.com**
 
-- 📄 Check out my resume [here](https://drive.google.com/file/d/1R7IGxPYIAuQ3wOgs0gqumtrIlY1ITyp6/view?usp=sharing)
+- 📄 Check out my resume [here](https://drive.google.com/file/d/145UVAehETpA8BcQzCFg2U0_msax9SUeI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
